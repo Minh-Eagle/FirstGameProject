@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "id": "flappy",
+      "name": "Flappy Bird",
+      "version": 1.0,
+      "description": "",
+      "folder_name": "FlappyBird",
+      "download_url": "https://github.com/Minh-Eagle/FirstGameProject/raw/refs/heads/main/FlappyBird.zip"
+    },
+    {
+      "id": "pong",
+      "name": "Pong",
+      "version": 1.0,
+      "description": "",
+      "folder_name": "Pong",
+      "download_url": "https://github.com/Minh-Eagle/FirstGameProject/raw/refs/heads/main/Pong.zip"
+    },
+    {
+      "id": "snake",
+      "name": "Rắn Săn Mồi",
+      "version": 1.0,
+      "description": "",
+      "folder_name": "Snake",
+      "download_url": "https://github.com/Minh-Eagle/FirstGameProject/raw/refs/heads/main/Snake.zip"
+    }
+  ]
+}
